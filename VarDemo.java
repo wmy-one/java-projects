@@ -2,8 +2,8 @@
  * Created by wmy_one on 2016/5/21.
  *
  * 这一节将会学习变量，并对变量进行操作。这些数据类型占用的内存大小为：
- * byte——>8  short——>16  int——>32  long——>64  默认为int类型
- * char——>2  float——>32  double——>64            默认为double类型
+ * byte——>8   short——>16  int——>32  long——>64   默认为int类型
+ * char——>16  float——>32  double——>64           默认为double类型
  * 若想表示单精度浮点数据，这需要在数值后面加上一个f，即可表示一个float类型的数据。
  *
  * 什么时候定义变量？
